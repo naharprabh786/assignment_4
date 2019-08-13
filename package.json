@@ -1,0 +1,29 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A Electron Application",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grakamandeep/ELECTRON.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick-start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grakamandeep/ELECTRON/issues"
+  },
+  "homepage": "https://github.com/Grakamandeep/ELECTRON#readme"
+}
